@@ -50,6 +50,10 @@ This video covers case level attributes, XES format; tools supporting XES format
 
 [pm4py-dcr](https://github.com/paul-cvp/pm4py-dcr)
 
+*Example Publications using pm4py*
+
+https://processintelligence.solutions/pm4py/publications
+
 *Structure of this repo*
 
 Python Notebook - open in google colab
