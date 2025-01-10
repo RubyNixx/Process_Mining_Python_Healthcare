@@ -4,6 +4,12 @@ pm4py is a python library that supports (state-of-the-art) process mining algori
 
 This repo contains links to process mining training, links to supporting documentation to support with installing libraries & how to use the library, and an example python notebook that you can run with the artifical healthcare data provided.
 
+**Presentation**
+
+I presented on process mining in the East of England at a few different communities, presentation below:
+
+[Presentation](https://github.com/RubyNixx/Process_Mining_Python_Healthcare/blob/main/Process_Mining.pdf)
+
 **Recommended training in process mining**
 
 [Coursera Process Mining](https://www.coursera.org/learn/process-mining)
