@@ -50,16 +50,22 @@ This video covers case level attributes, XES format; tools supporting XES format
 
 [pm4py-dcr](https://github.com/paul-cvp/pm4py-dcr)
 
-*Example Publications using pm4py*
+**Example Publications using pm4py**
 
 https://processintelligence.solutions/pm4py/publications
 
-*Structure of this repo*
+**Structure of this repo**
 
 Python Notebook - open in google colab
 Example artificial healthcare data
 
-*Requirements*
+**Additional example datasets for healthcare & process mining**
+[Ambulance Data](https://github.com/nhsengland/ProcessMining/tree/main/Data)
+
+Real life log of a Dutch academic hospital, originally intended for use in the first Business Process Intelligence Contest (BPIC 2011) 
+Uploaded to this repo.
+
+**Requirements**
 
 pm4py depends on some other Python packages, with different levels of importance:
 
