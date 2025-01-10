@@ -60,6 +60,7 @@ Python Notebook - open in google colab
 Example artificial healthcare data
 
 **Additional example datasets for healthcare & process mining**
+
 [Ambulance Data](https://github.com/nhsengland/ProcessMining/tree/main/Data)
 
 Real life log of a Dutch academic hospital, originally intended for use in the first Business Process Intelligence Contest (BPIC 2011) 
