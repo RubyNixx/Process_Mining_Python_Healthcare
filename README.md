@@ -72,6 +72,9 @@ Example artificial healthcare data
 Real life log of a Dutch academic hospital, originally intended for use in the first Business Process Intelligence Contest (BPIC 2011) 
 Uploaded to this repo.
 
+[Data.XML](https://github.com/RubyNixx/Process_Mining_Python_Healthcare/blob/main/DATA(1).xml)
+[]()
+
 **Requirements**
 
 pm4py depends on some other Python packages, with different levels of importance:
