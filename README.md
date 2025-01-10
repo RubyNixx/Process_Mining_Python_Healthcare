@@ -73,7 +73,7 @@ Real life log of a Dutch academic hospital, originally intended for use in the f
 Uploaded to this repo.
 
 [Data.XML](https://github.com/RubyNixx/Process_Mining_Python_Healthcare/blob/main/DATA(1).xml)
-[]()
+[Hospital_log.xes.gz](https://github.com/RubyNixx/Process_Mining_Python_Healthcare/blob/main/Hospital_log.xes.gz)
 
 **Requirements**
 
